@@ -29,3 +29,6 @@ free-file的文件主要涉及的内容是针对防火墙的扫描器、漏洞�
 - SCRIPTS -- 脚本资源引用库
 - TOOLS -- 辅助工具包(编码转换、IP格式转换、加密解密装换等等)
 
+有安全团队分析了相关的文件。 感兴趣的可以看一下。 
+
+[8月19日：Shadow-Brokers所泄露文件的介绍、技术分析（上）](http://bobao.360.cn/learning/detail/2970.html)
