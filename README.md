@@ -40,3 +40,7 @@ free-file的文件主要涉及的内容是针对防火墙的扫描器、漏洞�
 有安全爱好者对eqgrp的相关文件做了深度分析和测试
 
 [NSA（美国国安局）泄漏文件深度分析（PART 1）](http://www.freebuf.com/news/topnews/112447.html)
+
+国外黑客对目录的解析
+
+[Equation Group Firewall Operations Catalogue](https://musalbas.com/2016/08/16/equation-group-firewall-operations-catalogue.html
