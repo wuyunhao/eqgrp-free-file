@@ -32,3 +32,7 @@ free-file的文件主要涉及的内容是针对防火墙的扫描器、漏洞�
 有安全团队分析了相关的文件。 感兴趣的可以看一下。 
 
 [8月19日：Shadow-Brokers所泄露文件的介绍、技术分析（上）](http://bobao.360.cn/learning/detail/2970.html)
+
+大家可以重点关注下SecondDate相关的代码和工具,美国国安局在巴基斯坦和黎巴嫩的行动中曾使用过这个工具
+
+[网络报道](http://www.ithome.com/html/it/251065.htm)
