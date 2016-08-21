@@ -35,4 +35,8 @@ free-file的文件主要涉及的内容是针对防火墙的扫描器、漏洞�
 
 大家可以重点关注下SecondDate相关的代码和工具,美国国安局在巴基斯坦和黎巴嫩的行动中曾使用过这个工具
 
-[网络报道](http://www.ithome.com/html/it/251065.htm)
+[网络报道- 斯诺登：美国网络战争“武器库”被袭击](http://www.ithome.com/html/it/251065.htm)
+
+有安全爱好者对eqgrp的相关文件做了深度分析和测试
+
+[NSA（美国国安局）泄漏文件深度分析（PART 1）](http://www.freebuf.com/news/topnews/112447.html)
