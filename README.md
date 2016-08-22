@@ -44,3 +44,7 @@ free-file的文件主要涉及的内容是针对防火墙的扫描器、漏洞�
 国外黑客对目录的解析
 
 [Equation Group Firewall Operations Catalogue](https://musalbas.com/2016/08/16/equation-group-firewall-operations-catalogue.html
+
+天融信产品的相关漏洞利用
+
+[NSA方程式组织（Equation Group）泄露的天融信产品漏洞分析（一）](http://www.freebuf.com/articles/system/112482.html)
