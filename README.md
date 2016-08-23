@@ -48,3 +48,8 @@ free-file的文件主要涉及的内容是针对防火墙的扫描器、漏洞�
 天融信产品的相关漏洞利用
 
 [NSA方程式组织（Equation Group）泄露的天融信产品漏洞分析（一）](http://www.freebuf.com/articles/system/112482.html)
+
+e安全对各模块的功能分析
+
+[美国NSA“方程式组织”使用的黑客工具列表及功能解释](http://www.easyaq.org/info/infoLink/970229833.shtml)
+
