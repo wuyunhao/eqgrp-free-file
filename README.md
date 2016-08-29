@@ -53,3 +53,5 @@ e安全对各模块的功能分析
 
 [美国NSA“方程式组织”使用的黑客工具列表及功能解释](http://www.easyaq.org/info/infoLink/970229833.shtml)
 
+分析\eqgrp-free-file\Firewall\EXPLOITS\EXBA的思路、搭建漏洞环境的过程和利用条件测试
+[Cisco SNMP RCE漏洞复现过程](http://www.freebuf.com/vuls/112589.html?utm_source=tuicool&utm_medium=referral)
