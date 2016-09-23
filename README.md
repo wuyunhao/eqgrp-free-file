@@ -55,3 +55,5 @@ e安全对各模块的功能分析
 
 分析\eqgrp-free-file\Firewall\EXPLOITS\EXBA的思路、搭建漏洞环境的过程和利用条件测试
 [Cisco SNMP RCE漏洞复现过程](http://www.freebuf.com/vuls/112589.html?utm_source=tuicool&utm_medium=referral)
+
+[方程式再曝0day漏洞：超84万思科设备受影响](http://www.freebuf.com/news/115118.html)
