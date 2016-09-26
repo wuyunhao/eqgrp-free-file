@@ -57,3 +57,7 @@ e安全对各模块的功能分析
 [Cisco SNMP RCE漏洞复现过程](http://www.freebuf.com/vuls/112589.html?utm_source=tuicool&utm_medium=referral)
 
 [方程式再曝0day漏洞：超84万思科设备受影响](http://www.freebuf.com/news/115118.html)
+
+[比雅虎泄露更严重！超85万台思科设备仍受“零日漏洞”影响](http://www.leiphone.com/news/201609/chDy5qrgXHxZrWXK.html)
+
+[浅析思科0day漏洞CVE-2016-6415](http://www.freebuf.com/vuls/115207.html)
